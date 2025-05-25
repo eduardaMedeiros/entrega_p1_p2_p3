@@ -86,6 +86,4 @@ soma= 22
 * `bfe.c` — Interpretador Brainfuck.
 * `Makefile` — Automação de compilação.
 
-Perfeito! Aqui está o README atualizado, refletindo corretamente que a execução é feita encadeando os dois programas (`bfc` e `bfe`) diretamente via pipe:
-
 
