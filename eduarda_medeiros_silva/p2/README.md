@@ -1,5 +1,4 @@
-Perfeito! Aqui está um modelo de **README.md** bem estruturado, explicando a gramática de forma clara, profissional e organizada:
-# 📄 Gramática da Linguagem "PROGRAMA"
+# 📄 Gramática da Linguagem
 
 ## 🧠 **Descrição Geral**
 
